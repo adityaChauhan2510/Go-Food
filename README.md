@@ -56,6 +56,13 @@ The Food Delivery App provides a convenient way for users to order their favorit
 4. The app should now be accessible at http://localhost:3000.
 
 ## Screenshots
+![Login Page](screenshots/Login-Page.png)
+![Home Page](screenshots/Home-Page.png)
+![Food Items](screenshots/Food-options.png)
+![Cart](screenshots/Cart.png)
+
+
+
 
 
 
