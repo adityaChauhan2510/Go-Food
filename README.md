@@ -48,10 +48,10 @@ The Food Delivery App provides a convenient way for users to order their favorit
 
 3. Running the App
 
-   Run the backend server:
+   @Run the backend server:
      npx nodemon
    
-   Run the React Development server:
+   @Run the React Development server:
      npm run client
 
 5. The app should now be accessible at http://localhost:3000.
