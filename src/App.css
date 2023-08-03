@@ -1,0 +1,16 @@
+.body{
+  margin: 0;
+  font-family: "Monteserrat";
+}
+
+.heading{   
+  font-family: "Montserrat";
+  font-weight: 700;
+  font-size: 3rem;
+  line-height: 1.0;
+  padding-right: 2rem;
+}
+
+#carousel{
+  max-height: 360px;
+}
